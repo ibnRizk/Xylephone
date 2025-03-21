@@ -1,16 +1,29 @@
-# xelepjone
+# Xylophone App 🎵
 
-A new Flutter project.
+Xylophone is a simple and interactive app built with Flutter. Each colored container produces a unique sound when tapped, making it an engaging and fun way to explore music and sounds!
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📋 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Interactive user interface with vibrant colors.
+- Each container plays a distinct sound upon tapping.
+- Simple and responsive design.
+- Great for learning sound interaction.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Technologies Used
+
+- Flutter: A modern UI toolkit for building natively compiled applications.
+- Dart: The programming language used for Flutter development.
+
+---
+
+## 🚀 Getting Started
+
+Follow these steps to run the project locally:
+
+1. Clone the repository:
+   `bash
+   git clone https://github.com/ibnRizk/Xylephone.git
